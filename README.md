@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Daniela Alejandra Puerto Diaz
 
-Codigo :
+Codigo : 0000220606
 
 **Descripción del Problema:**
 
